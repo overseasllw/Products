@@ -1,0 +1,29 @@
+[
+ {
+ "id":"001",
+ "name":"product1",
+ "description":"this is product1",
+ "regular price":"1",
+ "sale price":"2",
+ "colors":["color1", "color2", "color3"],
+ "stores":["store1", "store2", "store3"]
+ },
+ {
+ "id":"002",
+ "name":"product2",
+ "description":"this is product2",
+ "regular price":"2",
+ "sale price":"3",
+ "colors":["color1", "color2", "color3"],
+ "stores":["store1", "store2", "store3"]
+ },
+ {
+ "id":"003",
+ "name":"product3",
+ "description":"this is product3",
+ "regular price":"3",
+ "sale price":"4",
+ "colors":["color1", "color2", "color3"],
+ "stores":["store1", "store2", "store3"]
+ }
+]

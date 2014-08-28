@@ -25,5 +25,15 @@
  "sale price":"4",
  "colors":["color1", "color2", "color3"],
  "stores":["store1", "store2", "store3"]
+ },
+ {
+ "id":"004",
+ "name":"product4",
+ "description":"this is product4",
+ "regular price":"4",
+ "sale price":"55",
+ "colors":["color1", "color2", "color3"],
+ "stores":["store1", "store2", "store3"]
  }
+ 
 ]
